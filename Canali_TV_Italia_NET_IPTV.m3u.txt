@@ -1,0 +1,146 @@
+#EXTM3U
+# Playlist gratuita dei canali TV in chiaro, creata il 15-11-2026.
+# Flussi pubblici indicizzati; compatibilita e disponibilita NON garantite.
+# Canali locali Marche aggiunti in fondo; alcuni canali possono essere soggetti a geo-blocco.
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="01 - Nazionali (LCN)",01 - Rai 1
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="01 - Nazionali (LCN)",02 - Rai 2
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="01 - Nazionali (LCN)",03 - Rai 3
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-name="Rete 4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="01 - Nazionali (LCN)",04 - Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-name="Canale 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="01 - Nazionali (LCN)",05 - Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-name="Italia 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="01 - Nazionali (LCN)",06 - Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-name="LA7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="01 - Nazionali (LCN)",07 - LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="01 - Nazionali (LCN)",08 - TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="NOVE" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="01 - Nazionali (LCN)",09 - NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-name="20 Mediaset" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="01 - Nazionali (LCN)",20 - 20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-name="Rai 4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="01 - Nazionali (LCN)",21 - Rai 4
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+#EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-name="Iris" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="01 - Nazionali (LCN)",22 - Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-name="Rai 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="01 - Nazionali (LCN)",23 - Rai 5
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-name="Rai Movie" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="01 - Nazionali (LCN)",24 - Rai Movie
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-name="Rai Premium" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="01 - Nazionali (LCN)",25 - Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-name="Cielo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="01 - Nazionali (LCN)",26 - Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-name="27 Twentyseven" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="01 - Nazionali (LCN)",27 - 27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-name="TV2000" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="01 - Nazionali (LCN)",28 - TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-name="LA7 Cinema" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="01 - Nazionali (LCN)",29 - LA7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-name="La 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="01 - Nazionali (LCN)",30 - La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-name="Real Time" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="01 - Nazionali (LCN)",31 - Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1832.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-name="QVC" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="01 - Nazionali (LCN)",32 - QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-name="Food Network" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="01 - Nazionali (LCN)",33 - Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1833.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-name="Cine34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="01 - Nazionali (LCN)",34 - Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-chno="35" tvg-name="Focus" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="01 - Nazionali (LCN)",35 - Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="01 - Nazionali (LCN)",36 - RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-chno="37" tvg-name="Discovery" group-title="01 - Nazionali (LCN)",37 - Discovery
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-name="Giallo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="01 - Nazionali (LCN)",38 - Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-name="Top Crime" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="01 - Nazionali (LCN)",39 - Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-name="Boing" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="01 - Nazionali (LCN)",40 - Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-name="K2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="01 - Nazionali (LCN)",41 - K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-name="Rai Gulp" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="01 - Nazionali (LCN)",42 - Rai Gulp
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-name="Rai Yoyo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="01 - Nazionali (LCN)",43 - Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-name="Frisbee" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="01 - Nazionali (LCN)",44 - Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-name="Cartoonito" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="01 - Nazionali (LCN)",46 - Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-chno="47" tvg-name="Super!" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="01 - Nazionali (LCN)",47 - Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-name="Rai News 24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="01 - Nazionali (LCN)",48 - Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-name="Italia 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="01 - Nazionali (LCN)",49 - Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-name="Sky TG24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="01 - Nazionali (LCN)",50 - Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-name="TGCOM24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="01 - Nazionali (LCN)",51 - TGCOM24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-name="DMAX" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="01 - Nazionali (LCN)",52 - DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-name="Italia 53" group-title="01 - Nazionali (LCN)",53 - Italia 53
+https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-name="Rai Storia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="01 - Nazionali (LCN)",54 - Rai Storia
+https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-name="Mediaset Extra" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="01 - Nazionali (LCN)",55 - Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-name="HGTV Home & Garden" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="01 - Nazionali (LCN)",56 - HGTV Home & Garden
+https://amg16146-wbdi-amg16146c9-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-name="Italiana (ex Rai Scuola)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="01 - Nazionali (LCN)",57 - Italiana (ex Rai Scuola)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="58" tvg-name="Rai Sport" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="01 - Nazionali (LCN)",58 - Rai Sport
+https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-name="Discovery Turbo" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="01 - Nazionali (LCN)",59 - Discovery Turbo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-name="Sportitalia" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="01 - Nazionali (LCN)",60 - Sportitalia
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-name="Donna TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="01 - Nazionali (LCN)",62 - Donna TV
+https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-name="Il Sole 24 Ore TV" group-title="01 - Nazionali (LCN)",63 - Il Sole 24 Ore TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master-3500.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-name="Supertennis" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="01 - Nazionali (LCN)",64 - Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-name="ALMA TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="01 - Nazionali (LCN)",65 - ALMA TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-name="Radio 105 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="01 - Nazionali (LCN)",66 - Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" tvg-name="R101 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="01 - Nazionali (LCN)",67 - R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="BOMChannel.it" tvg-chno="68" tvg-name="BOM Channel" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png" group-title="01 - Nazionali (LCN)",68 - BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="69" tvg-name="Deejay TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="01 - Nazionali (LCN)",69 - Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-name="Radio Italia TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="01 - Nazionali (LCN)",70 - Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-name="Rai 4K (solo eventi)" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="02 - Extra in chiaro",101 - Rai 4K (solo eventi)
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-name="Padre Pio TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="02 - Extra in chiaro",145 - Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="02 - Extra in chiaro",158 - Radio Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-name="Rai Radio 2 Visual" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="02 - Extra in chiaro",202 - Rai Radio 2 Visual
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-name="RTL 102.5 News" group-title="02 - Extra in chiaro",233 - RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-name="Virgin Radio TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="02 - Extra in chiaro",257 - Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-chno="258" tvg-name="Radiofreccia" group-title="02 - Extra in chiaro",258 - Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-chno="265" tvg-name="RDS Social TV" group-title="02 - Extra in chiaro",265 - RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-name="Radio Zeta" group-title="02 - Extra in chiaro",266 - Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-chno="910" tvg-name="èTV Marche" group-title="03 - TV locali Marche",910 - èTV Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="911" tvg-name="TVRS" group-title="03 - TV locali Marche",911 - TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 tvg-chno="912" tvg-name="Fano TV" group-title="03 - TV locali Marche",912 - Fano TV
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-name="FM TV Marche" group-title="03 - TV locali Marche",913 - FM TV Marche
+https://cloudtv.azotosolutions.com:9553/media/media/playlist.m3u8
